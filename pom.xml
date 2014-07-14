@@ -15,12 +15,12 @@
         <module>Yamler-Bukkit</module>
     </modules>
 
-    <distributionManagement>
+    <!-- <distributionManagement>
         <snapshotRepository>
             <id>snapshots</id>
             <url>http://nexus.cube-space.net/content/repositories/snapshots</url>
         </snapshotRepository>
-    </distributionManagement>
+    </distributionManagement> -->
 
     <build>
         <defaultGoal>clean deploy</defaultGoal>
